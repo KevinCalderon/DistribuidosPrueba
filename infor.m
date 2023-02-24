@@ -14,4 +14,5 @@ if num>=0
     disp(['El factorial de ',num2str(num),' es: ',num2str(factorial)])
 else
     disp(['El factorial de ',num2str(num),' es: ',num2str(factorial)])
+    
 end
